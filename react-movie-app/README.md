@@ -1,70 +1,32 @@
-# Getting Started with Create React App
+# Movie API and Icons Integration - README
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This repository contains a project that integrates the OMDB Movie API and custom icons from Icons8. It's built using React and utilizes various libraries for smooth development and implementation. Below you'll find details about the API, icons, libraries used, a development tutorial reference, and ways to connect with the project creator.
 
-## Available Scripts
+## Movie API Details and Documentation
 
-In the project directory, you can run:
+For detailed information about the OMDB Movie API and its usage, please visit [OMDB API Documentation](https://www.omdbapi.com/). This API provides data related to movies, including details like title, plot, cast, ratings, and more. It's a valuable resource for any project related to movies and entertainment.
 
-### `npm start`
+## Icons
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Icons for this project were sourced from [Icons8](https://icons8.com/icons/set/home). Icons8 offers a wide range of icons for various purposes, and in this project, these icons contribute to the visual aspects of the user interface.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Libraries Used
 
-### `npm test`
+The project is built using the following libraries:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- [styled-components](https://styled-components.com/): A popular CSS-in-JS library that enhances the styling of React components by allowing you to write actual CSS code within your JavaScript code.
+- [axios](https://axios-http.com/): A promise-based HTTP client that simplifies making HTTP requests from the browser.
+- [react-scripts](https://reactjs.org/docs/create-a-new-react-app.html): A set of scripts and configuration used by Create React App for building and running React applications.
 
-### `npm run build`
+## Development Documentation
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+During the development of this project, the tutorial provided by FreeCodeCamp was referred to. You can find the tutorial here: [React Movie App Tutorial](https://www.freecodecamp.org/news/react-movie-app-tutorial/). This resource offers step-by-step guidance on building a movie app using React, making it a valuable reference for understanding the development process.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Connect with Me
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Feel free to get in touch if you have any questions, suggestions, or just want to connect! You can reach me through:
 
-### `npm run eject`
+- Email: suyashhole01@gmail.com
+- LinkedIn: [Suyash Hole](https://www.linkedin.com/in/suyash-hole-pune/)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Your feedback and collaboration are highly appreciated. Enjoy exploring the project and its integration with the Movie API and custom icons!
