@@ -46,8 +46,8 @@ flex-directions:row;
 align-items: center;
 `;
 const SearchIcon = styled.img`
-  width: 22px;
-  height: 22px;
+  width: 15px;
+  height: 15px;
   margin-left: 10px;
 `;
 const SearchInput = styled.input`
